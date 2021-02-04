@@ -1,2 +1,2 @@
-# sanity-formatter-json-figma
+# sanity-simple-json
 Created with CodeSandbox
